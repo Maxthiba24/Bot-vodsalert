@@ -1,0 +1,72 @@
+{
+  "botToken": "MTI0Mjg2NDMzMTAyNTE1NDEwOQ.GO2ysv.hPP3poMUfvP0pEid3Z5SxjZYXldlFevUzaerWc",
+  "guildId": "1198646731760488638",
+  "clientId": "1242864331025154109",
+  "ownerId": "1222550188594434049",
+  "prefix": "/",
+  "logChannelId": "1289691246004142110",
+  "modChannelId": "1259313905465954379",
+  "rulesChannelId": "1223326785488293969",
+  "welcomeMessageChannelId": "1310942117492822036",
+  "announcementChannelId": "1259313916308357190",
+  "giveawayAnnouncementChannelId": "1259313926655574037",
+  "suggestionChannelId": "1308648355542466580",
+  "pollChannelId": "1375578556083470376",
+  "eventChannelId": "1259313916308357190",
+  "memeChannelId": "1259313984100896778",
+  "questChannelId": "1259313926655574037",
+  "publicChannelId": "1259313968506474656",
+  "dailyQuestChannelId": "1259313926655574037",
+  "ticketCategoryId": "1259313985132429396",
+  "muteRoleId": "1260592735589629953",
+  "acceptRulesRoleId": "1259313889519079454",
+  "ticketSupportRoleId": "1260013671858307092",
+  "authorizedRoles": [
+    "1222550188594434049",
+    "1259313906250158110"
+  ],
+  "rolesToRemoveOnMute": [
+    "1259313889519079454",
+    "1259313898436165732",
+    "1259313879096365137"
+  ],
+  "roleMappings": {
+    "membre": "1259313889519079454",
+    "partenaire": "1259313898436165732",
+    "everyone": "1198646731760488638"
+  },
+  "inappropriateWords": ["fdp", "ntm", "on sens fou"],
+  "forbiddenMentions": {
+    "roles": ["1222550188594434049", "1292275539326930985", "1264019110698811529", "1264581460778553405", "1259313906250158110", "1259313868237176944"],
+    "users": ["1222550188594434049", "1081923249006448700", "695689056754991224"]
+  },
+  "botName": "VodsalertV2",
+  "botAvatar": "https://images-ext-1.discordapp.net/external/3NknTl-hzeRQJbZNmLQJacFzjA3AFOD9VXDDmBmNDQQ/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1242864331025154109/7847b581d8323513d78635e1e60758dd.png?format=webp&quality=lossless",
+  "botThumbnail": "https://images-ext-1.discordapp.net/external/3NknTl-hzeRQJbZNmLQJacFzjA3AFOD9VXDDmBmNDQQ/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1242864331025154109/7847b581d8323513d78635e1e60758dd.png?format=webp&quality=lossless",
+  "welcomeImage": "welcome.gif",
+  "goodbyeImage": "goodbye.gif",
+  "defaultStatus": {
+    "type": "PLAYING",
+    "message": "Vodsalert | Gestion du serveur"
+  },
+  "xpPerMessage": 5,
+  "levelRoles": {
+    "5": "1259313879096365137",
+    "10": "1259313898436165732"
+  },
+  "achievementBadges": {
+    "message_100": {
+      "name": "Parleur Assidu",
+      "description": "A envoyé 100 messages",
+      "emoji": "💬"
+    },
+    "giveaway_5": {
+      "name": "Chanceux",
+      "description": "A participé à 5 giveaways",
+      "emoji": "🎉"
+    }
+  },
+  "weatherApiKey": "9e90b6e17388952b0206cab797ab76f3",
+  "imgflipUsername": "BryanServais1",
+  "imgflipPassword": "M8ihy9@9HVi6TVj"
+}
